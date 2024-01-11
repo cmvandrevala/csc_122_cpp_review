@@ -1,5 +1,7 @@
 # CSC 122 Chapter 2
 
+These notes cover some of the basic operations when writing programs in C++.
+
 ## 1. Hello World
 
 * The symbols `//` and `/* */` specify comments
@@ -46,3 +48,7 @@
 
 * You can use the comparisons within the `if(...)` statement
 * You can combine arithmetic and comparisons to make more complicated `if` statements
+
+## 6. Using Keyword
+
+* You can make your code less verbose by specifying `using std::cout`, `using std::cin`, and `using std::endl`
