@@ -36,3 +36,8 @@
 * The remainder operator yields the remainder after division
 * What happens if you choose zero for `numberOne`? Is this expected?
 * What happens if you choose zero for `numberTwo`? Is this expected?
+
+## 4. Comparisons
+
+* These are some of the comparison operators that are included in C++, right out of the box
+* What happens if you enter a string instead of a number at the prompt?
