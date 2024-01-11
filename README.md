@@ -28,3 +28,11 @@
 
 * What happens if I don't declare `numberOne`, `numberTwo`, or `sum`? Why?
 * What happens if I type in a decimal for one of the numbers? Why?
+
+## 3. Arithmetic
+
+* There are standard operations for arithmetic included in C++, right out of the box
+* Note how the division of integers yields a whole integer
+* The remainder operator yields the remainder after division
+* What happens if you choose zero for `numberOne`? Is this expected?
+* What happens if you choose zero for `numberTwo`? Is this expected?
