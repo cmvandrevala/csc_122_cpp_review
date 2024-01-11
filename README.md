@@ -24,7 +24,7 @@ These notes cover some of the basic operations when writing programs in C++.
 * The notation `int numberOne{0}` is called list initialization (introduced in C++ 11)
 * You can chain parts of a string in `cout`. This is also called concatenating.
 
-  ```bash
+  ```cpp
   std::cout << "The sum is " << sum << std::endl;
   ```
 
