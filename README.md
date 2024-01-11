@@ -41,3 +41,8 @@
 
 * These are some of the comparison operators that are included in C++, right out of the box
 * What happens if you enter a string instead of a number at the prompt?
+
+## 5. Conditionals
+
+* You can use the comparisons within the `if(...)` statement
+* You can combine arithmetic and comparisons to make more complicated `if` statements
