@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Compiled Code
+1_hello_world
+2_addition
+3_arithmetic
+4_comparisons
+5_conditionals
+6_using_keywords

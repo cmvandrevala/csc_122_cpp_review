@@ -1,4 +1,4 @@
-# CSC 122 Chapter 2
+# CSC 122 - Review of Arithmetic and Conditionals
 
 These notes cover some of the basic operations when writing programs in C++.
 
