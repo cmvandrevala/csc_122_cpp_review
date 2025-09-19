@@ -1,9 +1,9 @@
 #include <iostream>
 
 int main() {
-  int numberOne{0};
-  int numberTwo{0};
-  int sum{0};
+  int numberOne = 0;
+  int numberTwo = 0;
+  int sum = 0;
 
   std::cout << "What is the first number? ";
   std::cin >> numberOne;
